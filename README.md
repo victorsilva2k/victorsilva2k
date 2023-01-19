@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victorino Kiozq</h1>
+<h1 align="center">Hi 👋, I'm Victorino Kioza</h1>
 <h3 align="center">A Software Engineer who loves coding</h3>
 <img align="right" alt="Coding - Victorino Kioza"  width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif" />
 - 🔭 I’m currently working on [Oshikolabook](oshikolabook-front-production.up.railway.app)
